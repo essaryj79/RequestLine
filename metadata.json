@@ -1,0 +1,6 @@
+{
+  "name": "Live Music Performer Companion",
+  "description": "A comprehensive live performance companion PWA with a real-time audience request catalog, interactive ChordPro sheet music scroller, transposer, and dual-device Stage Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
